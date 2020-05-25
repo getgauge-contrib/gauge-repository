@@ -2,4 +2,7 @@
 .idea
 templates/zips
 .ionide
-plugin
+.bundle
+vendor
+_site
+.jekyll-cache
